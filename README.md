@@ -10,17 +10,17 @@ Public portfolio showcase for **EduLens AI** (Leo Suite).
 
 | Entry | URL |
 |-------|-----|
-| **EduLens home** | https://edutech-olive-pi.vercel.app/edulens |
-| **Homework analyzer** | https://edutech-olive-pi.vercel.app/edulens/homework-analyzer |
-| **Lesson generator** | https://edutech-olive-pi.vercel.app/edulens/lesson-generator |
-| **AI status (mock mode)** | https://edutech-olive-pi.vercel.app/api/edulens/ai-status |
-| **Vercel dashboard** | https://vercel.com/amylings-projects/edutech |
+| **EduLens home** | https://leo-suite-edutech-cenzhi.vercel.app/edulens |
+| **Homework analyzer** | https://leo-suite-edutech-cenzhi.vercel.app/edulens/homework-analyzer |
+| **Lesson generator** | https://leo-suite-edutech-cenzhi.vercel.app/edulens/lesson-generator |
+| **AI status** | https://leo-suite-edutech-cenzhi.vercel.app/api/edulens/ai-status |
+| **Vercel dashboard** | https://vercel.com/cenzhi/leo-suite-edutech |
 
 Related Leo Suite demos:
 
 | App | URL |
 |-----|-----|
-| YouthMentor AI | https://growth-chi-two.vercel.app/youthmentor · [showcase repo](https://github.com/mentorkokkwa/leo-suite-growth-showcase) |
+| YouthMentor AI | https://leo-suite-growth-cenzhi.vercel.app/youthmentor · [showcase repo](https://github.com/mentorkokkwa/leo-suite-growth-showcase) |
 | CampusBot AI | https://leo-suite-robot.vercel.app/campusbot |
 
 ---
@@ -44,7 +44,7 @@ EduLens AI is a structured teaching assistant:
 - Lesson generator (plans, worksheets, visual lessons)
 - Mistake book and printable reports
 - Multi-provider LLM with JSON validation and vision OCR
-- **Mock mode** for demo without API keys
+- **Mock fallback** when cloud providers are unavailable
 
 ---
 
@@ -78,7 +78,7 @@ Non-sensitive excerpts in [sample/](sample/) — UI and type definitions only. P
 
 ## Note
 
-Some backend implementation details are kept in the private repo (`mentorkokkwa/leo-suite-edutech`) for API security and product protection.
+Full source: private repo `mentorkokkwa/leo-suite-edutech`. Live demo hosted on **cenzhi** Vercel team.
 
 ---
 
