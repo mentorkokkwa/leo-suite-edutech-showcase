@@ -10,17 +10,17 @@ Public portfolio showcase for **EduLens AI** (Leo Suite).
 
 | Entry | URL |
 |-------|-----|
-| **EduLens home** | https://leo-suite-edutech-cenzhi.vercel.app/edulens |
-| **Homework analyzer** | https://leo-suite-edutech-cenzhi.vercel.app/edulens/homework-analyzer |
-| **Lesson generator** | https://leo-suite-edutech-cenzhi.vercel.app/edulens/lesson-generator |
-| **AI status** | https://leo-suite-edutech-cenzhi.vercel.app/api/edulens/ai-status |
+| **EduLens home** | https://leo-suite-edutech-six.vercel.app/edulens |
+| **Homework analyzer** | https://leo-suite-edutech-six.vercel.app/edulens/homework-analyzer |
+| **Lesson generator** | https://leo-suite-edutech-six.vercel.app/edulens/lesson-generator |
+| **AI status** | https://leo-suite-edutech-six.vercel.app/api/edulens/ai-status |
 | **Vercel dashboard** | https://vercel.com/cenzhi/leo-suite-edutech |
 
 Related Leo Suite demos:
 
 | App | URL |
 |-----|-----|
-| YouthMentor AI | https://leo-suite-growth-cenzhi.vercel.app/youthmentor · [showcase repo](https://github.com/mentorkokkwa/leo-suite-growth-showcase) |
+| YouthMentor AI | https://leo-suite-growth-swart.vercel.app/youthmentor · [showcase repo](https://github.com/mentorkokkwa/leo-suite-growth-showcase) |
 | CampusBot AI | https://leo-suite-robot.vercel.app/campusbot |
 
 ---
