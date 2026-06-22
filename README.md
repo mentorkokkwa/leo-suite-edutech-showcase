@@ -10,16 +10,17 @@ Public portfolio showcase for **EduLens AI** (Leo Suite).
 
 | Entry | URL |
 |-------|-----|
-| **EduLens home** | https://leo-suite-edutech.vercel.app/edulens *(replace with your Production domain)* |
-| **Homework analyzer** | `{production-domain}/edulens/homework-analyzer` |
-| **Lesson generator** | `{production-domain}/edulens/lesson-generator` |
-| **Vercel dashboard** | [vercel.com/cenzhi](https://vercel.com/cenzhi) |
+| **EduLens home** | https://edutech-olive-pi.vercel.app/edulens |
+| **Homework analyzer** | https://edutech-olive-pi.vercel.app/edulens/homework-analyzer |
+| **Lesson generator** | https://edutech-olive-pi.vercel.app/edulens/lesson-generator |
+| **AI status (mock mode)** | https://edutech-olive-pi.vercel.app/api/edulens/ai-status |
+| **Vercel dashboard** | https://vercel.com/amylings-projects/edutech |
 
 Related Leo Suite demos:
 
 | App | URL |
 |-----|-----|
-| YouthMentor AI | [leo-suite-growth-showcase](https://github.com/mentorkokkwa/leo-suite-growth-showcase) |
+| YouthMentor AI | https://growth-chi-two.vercel.app/youthmentor · [showcase repo](https://github.com/mentorkokkwa/leo-suite-growth-showcase) |
 | CampusBot AI | https://leo-suite-robot.vercel.app/campusbot |
 
 ---
@@ -77,7 +78,7 @@ Non-sensitive excerpts in [sample/](sample/) — UI and type definitions only. P
 
 ## Note
 
-Some backend implementation details are kept private for API security and product protection.
+Some backend implementation details are kept in the private repo (`mentorkokkwa/leo-suite-edutech`) for API security and product protection.
 
 ---
 
