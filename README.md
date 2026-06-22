@@ -34,9 +34,10 @@ Built as a **DSA-JC Computing / AI** portfolio piece.
 EduLens AI is a structured teaching assistant:
 
 - Homework analyzer with marking-style feedback and mistake types
-- Lesson generator (plans, worksheets, visual lessons)
+- Lesson generator with **multi-stage loading UX**, shareable report links, and output-type filtering
+- RAG citation sanitization and smarter diagram rendering (no irrelevant math placeholders)
 - Mistake book and printable reports
-- Multi-provider LLM with JSON validation and vision OCR
+- Multi-provider LLM with JSON validation, minimal-prompt fallback, and vision OCR
 - **Mock fallback** when cloud providers are unavailable
 
 ---
@@ -45,7 +46,9 @@ EduLens AI is a structured teaching assistant:
 
 - Next.js 16, React 19, TypeScript, Tailwind CSS 4
 - Provider chain: Agnes, Gemini, Groq, OpenRouter, OpenAI
-- RAG-lite syllabus context
+- RAG-lite syllabus context with post-generation citation cleanup
+- 3-part lesson generation with staged progress indicators
+- Output sections filtered by user-selected deliverables (plan, worksheet, etc.)
 - Structured JSON outputs with Zod validation
 - PDF / DOCX / PPTX export pipelines
 

@@ -19,7 +19,9 @@ EduLens AI is a structured teaching assistant that:
 | Feature | Description |
 |---------|-------------|
 | Homework Analyzer | Text + image OCR, structured JSON feedback |
-| Lesson Generator | Syllabus-aware plans with RAG context |
+| Lesson Generator | 3-part generation, staged loading UX, RAG context, output-type filtering |
+| Lesson reports | Shareable report links with localStorage cache for cold-start resilience |
+| Content quality | RAG citation sanitization; subject-aware diagram rendering |
 | Mistake Book | Persistent local history of error patterns |
 | Dashboard | Usage stats and progress overview |
 | Demo mode | Seeded analysis when no API key configured |
