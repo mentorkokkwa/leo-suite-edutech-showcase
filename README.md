@@ -62,6 +62,7 @@ EduLens AI is a structured teaching assistant:
 
 | Document | Description |
 |----------|-------------|
+| [docs/portfolio_full.md](docs/portfolio_full.md) | **Full portfolio document (~10 pages)** |
 | [docs/product_overview.md](docs/product_overview.md) | Product summary |
 | [docs/architecture.md](docs/architecture.md) | System design |
 | [docs/demo_script.md](docs/demo_script.md) | Walkthrough script |
