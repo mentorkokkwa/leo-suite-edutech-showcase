@@ -10,10 +10,10 @@ Public portfolio showcase for **EduLens AI**.
 
 | Entry | URL |
 |-------|-----|
-| **EduLens home** | https://leo-suite-edutech-six.vercel.app/edulens |
-| **Homework analyzer** | https://leo-suite-edutech-six.vercel.app/edulens/homework-analyzer |
-| **Lesson generator** | https://leo-suite-edutech-six.vercel.app/edulens/lesson-generator |
-| **AI status** | https://leo-suite-edutech-six.vercel.app/api/edulens/ai-status |
+| **EduLens home** | https://leo-suite-edutech-six.vercel.app/edulens?locale=en |
+| **Homework analyzer** | https://leo-suite-edutech-six.vercel.app/edulens/homework-analyzer?locale=en |
+| **Lesson generator** | https://leo-suite-edutech-six.vercel.app/edulens/lesson-generator?locale=en |
+| **AI status** | https://leo-suite-edutech-six.vercel.app/api/edulens/ai-status?locale=en |
 | **Vercel dashboard** | https://vercel.com/cenzhi/leo-suite-edutech |
 
 ---
